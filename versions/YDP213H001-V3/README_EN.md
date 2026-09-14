@@ -31,7 +31,7 @@
 
 OSPTEK **2.13″ 122×250 reflective LCD** is a **SPI** monochrome display module driven by **ST7305**. Suited to low-power instruments, labels, and outdoor-readable UIs.
 
-Spec ID (repository name): `2.13-lcd-122x250-spi-st7305`
+Spec ID (repository name): `lcd-2.13-122x250-spi-st7305`
 
 Current module version: **YDP213H001-V3**. Electrical and mechanical details follow [`docs/YDP_213_H001_V3_056ab92f80.pdf`](./docs/YDP_213_H001_V3_056ab92f80.pdf).
 
@@ -58,7 +58,7 @@ Bring-up demo photo: [`assets/image_1.jpg`](./assets/image_1.jpg).
 ## Repository layout
 
 ```text
-2.13-lcd-122x250-spi-st7305/                                # repo root (nav: ../../README_EN.md)
+lcd-2.13-122x250-spi-st7305/                                # repo root (nav: ../../README_EN.md)
 └── versions/
     └── YDP213H001-V3/                                # full materials for this part number
         ├── README.md
