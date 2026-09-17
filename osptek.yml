@@ -1,0 +1,14 @@
+id: lcd-2.13-122x250-spi-st7305
+category: displays
+
+size: "2.13"
+panel: lcd
+resolution: 122x250
+interface: [spi]
+shape: rect
+
+versions:
+  - id: YDP213H001-V3
+    driver: ST7305
+    touch: none
+    note: none
