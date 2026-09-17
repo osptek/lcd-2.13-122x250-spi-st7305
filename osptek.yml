@@ -6,6 +6,7 @@ panel: lcd
 resolution: 122x250
 interface: [spi]
 shape: rect
+corner: rounded
 
 versions:
   - id: YDP213H001-V3
